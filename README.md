@@ -5,6 +5,8 @@ next / previous tab buttons in a web browser.
 * Button 4 → Next tab (⌘⌥→)
 * Button 5 → Previous tab (⌘⌥←)
 
+Safari uses ⌘⇧] / ⌘⇧[ instead, since it doesn't support ⌘⌥←/→.
+
 
 ## Why I built this
 
